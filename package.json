@@ -1,0 +1,25 @@
+{
+  "name": "ts-morph-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@types/common-tags": "1.8.1",
+    "@types/prettier": "2.4.3",
+    "common-tags": "1.8.2",
+    "parcel-bundler": "^1.6.1",
+    "prettier": "2.5.1",
+    "ts-morph": "13.0.2"
+  },
+  "devDependencies": {
+    "typescript": "4.4.4"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
